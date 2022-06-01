@@ -1,9 +1,9 @@
-Lab9
+## Lab9_php_modular
 
 **Nama : Fery Affandi** <br>
 **NIM : 312010018** <br>
 
-### untuk memasuki lab10_php_oop klik <a href="https://github.com/Vinez1/lab10_php_oop.git">disini
+### Untuk memasuki lab10_php_oop klik <a href="https://github.com/Vinez1/lab10_php_oop.git">disini </a>
 
 ## Langkah-langkah Praktikum
 ### Nyalakan aplikasi Xampp
@@ -68,3 +68,6 @@ dengan kode
 
 <?php require('footer.php'); ?>
 ```
+## Outputnya
+
+![](foto/2.png)
