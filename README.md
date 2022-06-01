@@ -3,6 +3,8 @@ Lab9
 **Nama : Fery Affandi** <br>
 **NIM : 312010018** <br>
 
+### untuk memasuki lab10_php_oop klik <a href="https://github.com/Vinez1/lab10_php_oop.git">disini
+
 ## Langkah-langkah Praktikum
 ### Nyalakan aplikasi Xampp
 
